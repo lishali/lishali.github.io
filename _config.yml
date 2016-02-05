@@ -7,10 +7,10 @@ baseurl: '/jekyll-uno/'
 
 author:
   name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: lisha@berkeley.edu
+  twitter_username: lisha29143106
+  github_username: lishali
+  linkedin_username: lisha-li-700985a
 
 # Build settings
 destination: _site
