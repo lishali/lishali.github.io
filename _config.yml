@@ -3,7 +3,7 @@ title: Lisha
 description: 'Current PhD Student at UC Berkeley Statistics'
 url: 'http://lishali.github.io' 
 baseurl: ''
-# google_analytics: 'UA-73314404-1'
+google_analytics: 'UA-73314404-1'
 
 author:
   name: 'Lisha Li'
