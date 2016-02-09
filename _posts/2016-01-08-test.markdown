@@ -1,26 +1,45 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  “Intuition for Layers of Convolutional Networks“
 date:   2016-01-08 15:04:23
 categories: [jekyll]
-tags: [tag]
+tags: [Joan Bruna Deep Learning Course, Deep Learning, Neural Nets]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[Post in progress]
 
-Jekyll also offers powerful support for code snippets:
+This semester I'm taking a new [topics course][212] in Deep Learning given by [Joan Bruna][a].  He has a public webiste for the course on [github][212] that includes course slides.  Joan adds a lot of intuition and details on top of what is written in the slides, so I plan on blogging/taking notes about the course as a way to internalize the material.  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+An overview of what he covers (also found in lecture one lecture slides):
+1. 	Mathematical models of deep convolutional networks.
+- 	Supervised and unsupervised learning using deep models.
+- 	Applications to computer vision, speech and time series.
+- 	Relationships between Deep Learning and "classic" models.
+- 	Open mathematical/statistical questions.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Deep Learning Models: 
+*"A class of parametrized non-linear representations encoding appropriate domain knowledge (invariance and stationarity) that can be (massively) optimized efficiently using stochastic gradient descent."*
 
+## Classification, Kernals and Metrics
+
+### High-dim Recognition Setup
+
+Our input data \\(x\\) for the neural network lives in a high-dimensional space, sometimes even infinite dimensional space.  $$ x \in \Omega, \Omega \subset \mathbb{R}^d \text{for finite but large } d$$
+$$x \in L^2(\mathbb{R}^m), m = 1,2,3. $$
+
+In the last case think of images in 1,2 or 3 dimensions as functions of colour on these spaces.  The \\(L^2\\) assumption is reasonable given our limited colour range.  
+
+Our observations are in the form \\((x_i, y_i), i = 1, ..., n\\) where the \\(y_i\\)'s are "response" variables. 
+
+
+
+
+##Review: Separable Scattering Operators
+
+
+
+[a]: http://www.stat.berkeley.edu/~bruna/
+[212]: https://github.com/joanbruna/stat212b
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
