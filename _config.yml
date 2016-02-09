@@ -15,7 +15,7 @@ author:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:title/
+permalink: /:title/
 markdown: redcarpet
 highlighter: pygments
 
