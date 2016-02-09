@@ -2,7 +2,7 @@
 title: Lisha
 description: 'Current PhD Student at UC Berkeley Statistics'
 url: 'http://lishali.github.io' 
-baseurl: '/jekyll-uno/'
+baseurl: '/l/'
 # google_analytics: 'UA-73314404-1'
 
 author:
@@ -25,5 +25,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+gems: ['jekyll-paginate', 'jekyll-mentions', 'jemoji', 'jekyll-redirect-from', 'jekyll-sitemap', 'jekyll-feed']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
