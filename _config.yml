@@ -18,6 +18,7 @@ paginate: 10
 permalink: /:title/
 markdown: redcarpet
 highlighter: pygments
+include: ["_posts/"]
 
 kramdown:
   # use Github Flavored Markdown
@@ -25,7 +26,7 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-relative_permalinks: false 
+
 
 gems: ['jekyll-paginate', 'jekyll-mentions', 'jemoji', 'jekyll-redirect-from', 'jekyll-sitemap', 'jekyll-feed']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

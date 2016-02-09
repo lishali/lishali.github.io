@@ -7,7 +7,7 @@ tags: [jekyll]
 ---
 
 
-*[Lisha][2]*
+
 
 
 ## **General Thoughts**
