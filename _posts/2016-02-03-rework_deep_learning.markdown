@@ -3,7 +3,7 @@ layout: post
 title:  “Deep Learning and Startups“
 date:   2016-02-03 15:04:23
 categories: [jekyll]
-tags: [jekyll]
+tags: [Deep Learning, Tech]
 ---
 
 
