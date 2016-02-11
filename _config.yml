@@ -2,7 +2,7 @@
 title: Lisha
 description: 'Current PhD Student at UC Berkeley Statistics'
 url: 'http://lishali.github.io' 
-baseurl: 'blog'
+baseurl: /
 google_analytics: 'UA-73314404-1'
 
 author:
@@ -18,14 +18,12 @@ paginate: 10
 permalink: /:title/
 markdown: kramdown
 highlighter: pygments
-auto: true
 
 kramdown:
   # use Github Flavored Markdown
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
-
 
 
 gems: ['jekyll-paginate', 'jekyll-mentions', 'jemoji', 'jekyll-redirect-from', 'jekyll-sitemap', 'jekyll-feed']
