@@ -13,7 +13,7 @@ tags: [Deep Learning, Tech]
 ## **General Thoughts**
 
 
-This past week I went to the [Rework Deep Learning][1] conference.  It was a good two days of talks by both top researchers in DL and companies applying DL.  I made summary notes for the talks divided them by ‘Research’ and ‘Companies’, within these two categories they are simply in order of who talked first in the following sections.  There was also a Q&A with Andrew Ng which I stuffed under 'Research'.  
+This past week I went to the [Rework Deep Learning][1] conference.  It was a good two days of talks by both top researchers in DL and companies applying DL.  I made summary notes for the talks and divided them by ‘Research’ and ‘Companies’. Within these two categories they are simply in order of who talked first.  There was also a Q&A with Andrew Ng which I stuffed under 'Research'.  
 
 The research talks were an excellent line up.  All presented on recent work, though if you keep up with the literature, they should be familiar.  I won't mention any in particular here because I think their summaries are all worth reading if you are not yet familiar.
 
@@ -22,7 +22,7 @@ There is clearly a lot of excitement about this area of research for its applica
 
 An issue to consider in creating a successful business using DL is to find a vertical that is ok with the accuracy level that is achieved by the state of the art, while being willing to pay a lot of money for it. In short, is the product accurate enough, and is there someone who cares enough given the level of accuracy to pay for it? Though a lot of the companies look promising, it is not obvious they have succeeded yet.  It seems more easy to be business facing and build a platform to do DL, as many of the companies below do, especially since the companies that can afford it have already built DL teams (see above).  
 
-I took notes in real time and for all the talks, so expect them to be a bit unpolished.
+I plan on posting more analysis on startups in this space in the weeks following.  
 
 
 [1]: https://www.re-work.co/events/deep-learning-sanfran-2016
@@ -39,8 +39,8 @@ Technology advancements: Deep Neural Networks (DNN) are very expressive and can 
  
 Key take-away: DNNs strike a sweet spot between trainability and expressiveness. 
 
-
-
+![alt text][neuralgpu]
+[neuralgpu]:({{site.url}}/images/neuralgpu.png)
 
 
 ### **Speaker/Company name: Fireside Chat with Andrew Ng.**
