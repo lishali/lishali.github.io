@@ -39,8 +39,7 @@ Technology advancements: Deep Neural Networks (DNN) are very expressive and can 
  
 Key take-away: DNNs strike a sweet spot between trainability and expressiveness. 
 
-![alt text][neuralgpu]
-[neuralgpu]:({{site.url}}/images/neuralgpu.png)
+![alt text][neuralgpu]({{site.url}}/images/neuralgpu.png)
 
 
 ### **Speaker/Company name: Fireside Chat with Andrew Ng.**
