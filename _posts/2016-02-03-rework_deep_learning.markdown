@@ -7,7 +7,8 @@ tags: [Deep Learning, Tech]
 ---
 
 
-
+**This blog post is also featured in [KDnuggets][KD]**
+[KD]: http://www.kdnuggets.com/2016/02/deep-learning-startups-rework-san-francisco.html
 
 
 ## **General Thoughts**
