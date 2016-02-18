@@ -7,14 +7,13 @@ tags: [Deep Learning, Tech]
 ---
 
 
-*This blog post is also featured in* [KDnuggets][KD]
-[KD]: http://www.kdnuggets.com/2016/02/deep-learning-startups-rework-san-francisco.html
+*This blog post is also featured in* [KDnuggets][1]
 
 
 ## **General Thoughts**
 
 
-This past week I went to the [Rework Deep Learning][1] conference.  It was a good two days of talks by both top researchers in DL and companies applying DL.  I made summary notes for the talks and divided them by ‘Research’ and ‘Companies’. Within these two categories they are simply in order of who talked first.  There was also a Q&A with Andrew Ng which I stuffed under 'Research'.  
+This past week I went to the [Rework Deep Learning][2] conference.  It was a good two days of talks by both top researchers in DL and companies applying DL.  I made summary notes for the talks and divided them by ‘Research’ and ‘Companies’. Within these two categories they are simply in order of who talked first.  There was also a Q&A with Andrew Ng which I stuffed under 'Research'.  
 
 The research talks were an excellent line up.  All presented on recent work, though if you keep up with the literature, they should be familiar.  I won't mention any in particular here because I think their summaries are all worth reading if you are not yet familiar.
 
@@ -28,9 +27,9 @@ All in all I find this area of entrepreneurial activity very exciting and I plan
 
 Keep in mind the notes are a bit unpolished as I took them in real time for all the talks.  
 
-
-[1]: https://www.re-work.co/events/deep-learning-sanfran-2016
-[2]: https://www.stat.berkeley.edu/~janetlishali/
+[1]: http://www.kdnuggets.com/2016/02/deep-learning-startups-rework-san-francisco.html
+[2]: https://www.re-work.co/events/deep-learning-sanfran-2016
+[3]: https://www.stat.berkeley.edu/~janetlishali/
 
 
 ## **Research**
